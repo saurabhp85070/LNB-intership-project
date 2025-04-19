@@ -11,7 +11,7 @@ This repository contains the final project developed during the Learn and Build 
 
 ## 🛠️ Technologies Used
 
-- **Programming Language**: Python
-- **Tools & Libraries**: Jupyter Notebook, Pandas, NumPy, [insert any other libraries used]
+- **Programming Language**: `Python`
+- **Tools & Libraries**: `Jupyter Notebook`, `Pandas`, `NumPy`, `scikit-learn`
 - **Data Format**: CSV
 
